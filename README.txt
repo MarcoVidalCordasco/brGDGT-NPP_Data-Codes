@@ -3,7 +3,7 @@
 ## 📌 Overview
 
 This repository contains an R workflow for analysing branched GDGT (brGDGT) compounds and modelling Net Primary Productivity (NPP).
-It also includes the full ecological modelling workflow to reconstruct herbivore biomass and the carrying capacity of secondary consumers.
+It also includes the full ecological modelling workflow to reconstruct herbivore biomass and carrying capacity of secondary consumers.
 
 There are two scripts:
 

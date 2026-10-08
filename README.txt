@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This repository contains an R workflow for analysing branched GDGT (brGDGT) compounds and modelling Net Primary Productivity (NPP).
+This repository contains an R workflow for analysing branched GDGT (brGDGT) compounds and computing Net Primary Productivity (NPP).
 It also includes the full ecological modelling workflow to reconstruct herbivore biomass and carrying capacity of secondary consumers.
 
 There are two scripts:
@@ -16,6 +16,7 @@ The Script_1 performs:
 * Statistical modelling (linear, quadratic, GAM)
 * Random Forest modelling with three validation strategies
 * Independent dataset validation
+* Environmental novelty analysis
 * NPP reconstruction from Padul-15-05 core
 * Comparison with climate-derived NPP (Miami model)
 * Summed Probability Distribution (SPD) analysis for archaeological data

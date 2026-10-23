@@ -1,8 +1,11 @@
 # brGDGT-based NPP Modelling and Analysis
 
-NOTE: spatial_cv_50km_models1.rds, spatial_cv_100km_models1.rds, spatial_cv_500km_models1.rds and spatial_cv_1000km_models1.rds
-cannot be sotres in GitHub because they are >25 Mb, so they are in https://zenodo.org/records/23495441 
-Likewise the rasters needed for the environmental novelty analyses are available in https://zenodo.org/records/23495441 
+NOTE: Due to their size, the spatial cross-validation models, models fitted without sample type as a predictor, and environmental rasters are archived separately on Zenodo:
+https://zenodo.org/records/23495441
+These files are not included in the GitHub repository. To reproduce the analyses, download the files from Zenodo and place them in the repository directory, preserving the original filenames and the WithoutSampleType/ subdirectory.
+The scripts contain the procedures required to regenerate the spatial cross-validation models from the calibration data. The archived models are provided to reproduce the published analyses without the computational cost of retraining.
+The environmental novelty analysis requires the six raster files listed in Script 1. Information about their original data sources, resolutions and preprocessing is provided with the archived files.
+
 
 ## 📌 Overview
 

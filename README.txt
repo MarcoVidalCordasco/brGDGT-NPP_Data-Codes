@@ -1,5 +1,9 @@
 # brGDGT-based NPP Modelling and Analysis
 
+NOTE: spatial_cv_50km_models1.rds, spatial_cv_100km_models1.rds, spatial_cv_500km_models1.rds and spatial_cv_1000km_models1.rds
+cannot be sotres in GitHub because they are >25 Mb, so they are in https://zenodo.org/records/23495441 
+Likewise the rasters needed for the environmental novelty analyses are available in https://zenodo.org/records/23495441 
+
 ## 📌 Overview
 
 This repository contains an R workflow for analysing branched GDGT (brGDGT) compounds and computing Net Primary Productivity (NPP).
